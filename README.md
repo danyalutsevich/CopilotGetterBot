@@ -1,5 +1,5 @@
 # CopilotGetterBot
-This bot will post a tweet every time you execute exe file. 
+This bot will post a tweet every time you run this program. 
 Especially I set up it to execute on every PC startup
 
 To set up your program to run on startup
